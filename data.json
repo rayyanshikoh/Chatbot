@@ -1,0 +1,31 @@
+{"intents": [
+    {"tag": "greeting",
+     "patterns": ["Hi", "Hey", "Is anyone there?", "Hello", "Hay", "What's up", "Hiya"],
+     "responses": ["Hello", "Hi", "Hi there"]
+    },
+    {"tag": "goodbye",
+     "patterns": ["Bye", "See you later", "Goodbye"],
+     "responses": ["See you later", "Have a nice day", "Bye! Come back again"]
+    },
+    {"tag": "thanks",
+     "patterns": ["Thanks", "Thank you", "That's helpful", "Thanks for the help", "thank you for your help", "thanks for helping me"],
+     "responses": ["Happy to help!", "Any time!", "My pleasure", "You're most welcome!"]
+    },
+    {"tag": "about",
+     "patterns": ["Who are you?", "What are you?", "Who you are?", "who is this?" ],
+     "responses": ["I'm SAM, your virtual assistant", "I'm an Artificial Intelligent bot"]
+    },
+    {"tag": "name",
+    "patterns": ["what is your name", "what should I call you", "whats your name?"],
+    "responses": ["You can call me SAM!", "I'm SAM, which stands for Simulated Adaptive Matrix", "Just call me as SAM"]
+    },
+    {"tag": "help",
+    "patterns": ["Could you help me?", "give me a hand please", "Can you help?", "I need support", "I need a help", "support me please", "I need help"],
+    "responses": ["How can I help?", "What's up?", "Of course, how can I help?", "Ask me what I can do to learn more"]
+    },
+    {"tag": "abilities",
+    "patterns":["What can you do for me?", "What are you able to do?", "what can you do", "what are your abilites", "what do you do"],
+    "responses":["I can't do much yet!", "There's not much I have learnt yet, however as time progresses I will learn", "I myself am young so am quite in the unknown here", "not much to be honest with you"]
+    }
+]
+}

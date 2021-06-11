@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/rayyanshikoh/VSCodeProjects/Chatbot/models/sam"
+all_model_checkpoint_paths: "/Users/rayyanshikoh/VSCodeProjects/Chatbot/models/sam"
